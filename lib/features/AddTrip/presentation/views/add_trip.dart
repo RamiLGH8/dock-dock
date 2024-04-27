@@ -24,10 +24,7 @@ class _AddTripState extends State<AddTrip> {
     'ship1',
     'ship2',
     'ship3',
-    'Ramy La Marine',
-    'Rami La Marine 2',
-    'ramy ya lmnogol',
-    'Anis Ganguilo'
+    'ship4'
   ];
   final cargos = [
     'DANGEROUS_GOODS',
